@@ -11,7 +11,7 @@
   <project path="build" name="MiCode/patchrom_build">
     <copyfile src="makefile" dest="Makefile" />
   </project>
-  <project path="manifest" name="MiCode/patchrom" />
+  <project path="manifest" name="ljzyal/patchrom" />
   <project path="android" name="MiCode/patchrom_android" />
   <project path="i9260" name="ljzyal/patchrom_i9260" />
   <project path="i9268" name="ljzyal/patchrom_i9268" />
