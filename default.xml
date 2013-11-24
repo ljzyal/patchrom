@@ -17,4 +17,5 @@
   <project path="i9268" name="ljzyal/patchrom_i9268" />
   <project path="miui" name="MiCode/patchrom_miui" />
   <project path="tools" name="MiCode/patchrom_tools" />
+
 </manifest>
